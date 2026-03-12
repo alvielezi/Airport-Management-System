@@ -66,6 +66,21 @@ The AMS must fulfill key functional and operational requirements:
 - Generate reports on flight statistics, passenger volumes, delays, and system usage.
 - Support operational and strategic decision-making.
 
+### Financing
+- Track airport-related revenues (fees, services, rentals) and operational costs.
+- Support budgeting and financial reporting for management oversight.
+- Maintain auditable records for transactions and approvals.
+
+### Human Resources
+- Manage staff profiles, roles, certifications, and shift assignments.
+- Support scheduling for operational coverage and compliance.
+- Maintain access to HR data with strict privacy controls.
+
+### Baggage Management
+- Track baggage check-in, transfers, and delivery status.
+- Integrate baggage routing with flight and gate changes.
+- Support incident handling for lost, delayed, or damaged baggage.
+
 ### User Authentication and Access Control
 - Implement secure authentication.
 - Enforce role-based permissions to protect system integrity.
